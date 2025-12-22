@@ -1,6 +1,6 @@
 {
-  "name": "Inventory Mapper Pro",
-  "short_name": "Mapper Pro",
+  "name": "6th Floor Inventory",
+  "short_name": "6th Floor Inventory",
   "description": "Professional Floorplan and Inventory Management System",
   "start_url": ".",
   "display": "standalone",
