@@ -1,7 +1,7 @@
 {
   "name": "6th Floor Inventory",
   "short_name": "6th Floor Inventory",
-  "description": "Professional Floorplan and Inventory Management System",
+  "description": "Inventory Management",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f8fafc",
