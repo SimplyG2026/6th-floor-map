@@ -1,8 +1,9 @@
+
 {
   "name": "6th Floor Inventory",
   "short_name": "6th Floor",
   "description": "Floorplan and Inventory Management System",
-  "start_url": "./index.html",
+  "start_url": ".",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
