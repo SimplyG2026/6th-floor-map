@@ -2,7 +2,7 @@
   "name": "6th Floor Inventory",
   "short_name": "6th Floor",
   "description": "Floorplan and Inventory Management System",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#f8fafc",
