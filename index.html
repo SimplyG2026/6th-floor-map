@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,11 +26,15 @@
             margin: 0;
             padding: 0;
             overflow: hidden;
-            overscroll-behavior-y: contain;
+            overscroll-behavior: none;
+            -webkit-user-select: none;
+            user-select: none;
         }
         #root {
             height: 100vh;
             width: 100vw;
+            overflow: hidden;
+            overscroll-behavior: none;
         }
         .custom-scrollbar::-webkit-scrollbar { width: 6px; }
         .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
@@ -55,7 +60,7 @@
       }
     }
     </script>
-  <script type="module" crossorigin src="./assets/main-tZSTlMh0.js"></script>
+  <script type="module" crossorigin src="./assets/main-Dk7xYKp7.js"></script>
 </head>
 <body>
     <div id="root"></div>
